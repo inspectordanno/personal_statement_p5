@@ -3,16 +3,3 @@ html, body {
   padding: 0;
   height: 100%;
   width: 100%; }
-
-#container {
-  display: flex;
-  height: 100%;
-  width: 100%; }
-  #container #canvas_div {
-    background-color: #00a1d3;
-    width: 50%; }
-  #container #instructions_div {
-    background-color: #dc3787;
-    width: 50%; }
-
-/*# sourceMappingURL=style.css.map */
