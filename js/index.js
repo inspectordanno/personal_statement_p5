@@ -12,9 +12,9 @@ var franklinIMG;
 var milkIMG;
 function preload() {
   cheesesteakIMG = loadImage('png/cheesesteak.png');
-  franklinIMG = loadImage('png/franklin.png')
-  redSoxIMG = loadImage('png/redsox.png')
-  milkIMG = loadImage('png/milk.png')
+  franklinIMG = loadImage('png/franklin.png');
+  redSoxIMG = loadImage('png/redsox.png');
+  milkIMG = loadImage('png/milk.png');
 }
 
 //In this section, I am writing text on the page. I realize I am repeating myself
